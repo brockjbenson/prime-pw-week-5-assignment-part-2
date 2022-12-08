@@ -6,12 +6,12 @@
 }
 #main {
     background-color: lightgray;
+    padding: 1em;
 
 }
 body {
-    background-image: url(/assignment/record.png);
-    background-repeat: no-repeat;
+    background-image: url("./images/record.png");
+    background-repeat:repeat;
     background-position: center;
     margin: 0;
-    padding: 1em;
 }
