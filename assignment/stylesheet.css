@@ -1,1 +1,13 @@
+header {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
 
+}
+main {
+    background-color: lightgray;
+
+}
+body {
+    background-image: url(/assignment/record.png);
+}
